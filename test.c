@@ -25,9 +25,12 @@ int main(int argc,char* argv[]){
 	
 	
 	//begin to execute
-	starttime=MPI_Wtime();
-	MPI_Barrier(MPI_COMM_WORLD);
 	
+	
+	// Synchronize before starting timing
+    MPI_Barrier(MPI_COMM_WORLD);
+	starttime=MPI_Wtime();
+
 	//use if else to control different flows
 	
 	if(myrank==0){
@@ -58,7 +61,8 @@ int main(int argc,char* argv[]){
 	}
 	
 	
-	MPI_Barrier(MPI_COMM_WORLD);
+	// Synchronize again before obtaining final time
+    MPI_Barrier(MPI_COMM_WORLD);
 	
 	
 	endtime=MPI_Wtime(); //end of execution
