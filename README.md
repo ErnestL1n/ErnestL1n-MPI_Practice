@@ -10,7 +10,7 @@ port:163.25.101.181
 account:my student ID
 
 
-password:last five number of my student ID
+password:last five numbers of my student ID
 
 
 // XXXX file name
