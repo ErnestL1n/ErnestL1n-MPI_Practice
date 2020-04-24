@@ -7,12 +7,6 @@ MPI common commands on putty ubuntu environment:
 port:163.25.101.181
 
 
-account:my student ID
-
-
-password:last five numbers of my student ID
-
-
 // XXXX file name
 
 mpicc XXXX.c -o test                      
