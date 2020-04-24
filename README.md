@@ -1,5 +1,5 @@
 # MPI_Practice
-MPI Programming_Practice In C
+MPI Programming Practice In C
 
 MPI common commands on putty ubuntu environment:
  
