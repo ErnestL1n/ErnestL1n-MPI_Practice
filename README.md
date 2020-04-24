@@ -1,4 +1,4 @@
-# ErnestL1n-MPI_Practice
+# MPI_Practice
 MPI programming_Practice In C
 
 MPI common commands on putty ubuntu environment:
