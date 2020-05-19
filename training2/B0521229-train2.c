@@ -50,7 +50,7 @@ int main(int argc,char *argv[]){
     //initialize all entries it as true(=1).
     //A value in prime[i] will finally be false if i is Not a prime, else true.
 	char *ifprime=(char*)malloc(sizeof(char)*(nsmall+1));
-    memset(ifprime,'y',sizeof(ifprime));
+    memset(ifprime,'y', sizeof(ifprime[0]) * (nsmall + 1));
 	
 	//allocate a array to accommodate prime numbers,it is ok to allocate a size nsmall array ,it is not large
 	unsigned long long int *primetemp=(unsigned long long int*)malloc(sizeof(unsigned long long int)*nsmall);
