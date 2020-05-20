@@ -1,7 +1,7 @@
 # MPI_Practice
 MPI Programming Practice In C
 
-MPI common commands on putty ubuntu environment:
+MPI common commands on putty ubuntu environment:(32 processors)
  
 
 port:163.25.101.181
