@@ -20,3 +20,6 @@ Train1-MPI send/recv compares to collective call- 1.Broadcast 2.Scatter 3.Gather
 Train2-Find how mant primes within 10 Billions with MPI parallel programming
 
 Train3-Bucket sort 100 Millions numbers(Range 0-99999) with MPI parallel programming
+
+
+![Mpi useful function](https://ernestl1n.imgur.com/all)
