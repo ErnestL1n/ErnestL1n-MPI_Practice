@@ -22,4 +22,4 @@ Train2-Find how mant primes within 10 Billions with MPI parallel programming
 Train3-Bucket sort 100 Millions numbers(Range 0-99999) with MPI parallel programming
 
 
-![Mpi useful function](https://imgur.com/PuyS1bM)
+###Note
