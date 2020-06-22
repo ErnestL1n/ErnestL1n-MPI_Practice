@@ -23,3 +23,4 @@ Train3-Bucket sort 100 Millions numbers(Range 0-99999) with MPI parallel program
 
 
 ### note
+![MPI Function](https://user-images.githubusercontent.com/52807284/85292970-4493fa80-b4cf-11ea-80b5-97675be6d186.PNG)
